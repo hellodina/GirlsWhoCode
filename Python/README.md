@@ -4,21 +4,21 @@
 
 ### Projects:
 
-1. [Guess The Number](GuessTheNumber)
+1. Guess The Number
     * This project is used in U1L5.
     * Students practice using loops and conditionals.
-2. [Text Adventure](TextAdventure)
+2. Text Adventure
     * This project is used in U1L5.
     * Students practice loops, variables, and conditionals in Python while translating their Choose Your Own Adventure project from Scratch.
-3. [List Challenge](ListChallenge)
+3. List Challenge
     * This project is used in U1L6.
     * Students practice using lists in Python.
-4. [Hangman](Hangman)
+4. Hangman
     * This project is used in U1L6.
     * Students learn how to use lists while creating a hangman game.
-5. [Chatbot](Chatbot)
+5. Chatbot
     * This project is used in U1L7.
     * Students learn to use functions in Python.
-6. [#AllTheFilters](AllTheFilters)
+6. #AllTheFilters
     * This project is used in U1L8.
     * Students learn about libraries and use the PIL library to create filters for an image.
