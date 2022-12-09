@@ -19,9 +19,3 @@
 7. Escape Bot
     * Students learned AI development by creating a robot that can escape from a three-sided box.
 
-### Reference:
-
-1. [Circuits](Circuits)
-    * These are circuit diagrams for the different inputs used in U2L3.
-2. [CodeExamples](CodeExamples)
-    * These files include the code snippets that are shown on the slides in U2L3.
